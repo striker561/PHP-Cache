@@ -6,6 +6,7 @@ In some programming languages, caching is used for easy retrival of data for fas
 **Features**
 
 **Cache Creation :** - _Cache are created with a unique name given to it. No two cache instances can have the same name_<br>
+**Cache Path :** - _Cache path can be specified_<br>
 **Cache Insert :** - _Insert data in the cache, writes at the end of the file._<br>
 **Cache Overwrite :** - _You can choose to overwrite the data stored in the cache with a new data._<br>
 **Reading Cache :** - _Cahing data can be read by providing the Cache stream variable<br>
